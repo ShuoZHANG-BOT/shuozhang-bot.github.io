@@ -39,4 +39,4 @@ I am currently a Ph.D. student in the Department of Mathematics and Statistics a
 - 
 
 # 💻 Internships
-- *2025.07 - 2026.03*, Machine Intelligence Lab, Westlake University, China.
+-
