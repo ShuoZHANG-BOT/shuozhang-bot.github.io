@@ -25,8 +25,7 @@ I am currently a Ph.D. student in the Department of Mathematics and Statistics a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- 
 
 # 🎖 Honors and Awards
 - 
