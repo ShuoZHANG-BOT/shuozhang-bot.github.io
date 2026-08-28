@@ -26,8 +26,9 @@ I am currently a Ph.D. student in the Department of Mathematics and Statistics a
 # 📝 Publications 
 
 ### 🗓️ 2026
-* **REST-SNN: Regularized and Efficient Spatio-Temporal Attention for Robust Spiking Neural Networks** 
-  Y. Zhang*, **S. Zhang***, Y. Wang, R. Fan, U. Nauman, C. Zhu. （* Equal contribution）.
+* **REST-SNN: Regularized and Efficient Spatio-Temporal Attention for Robust Spiking Neural Networks**<br>
+  Y. Zhang\*, **S. Zhang\***, Y. Wang, R. Fan, U. Nauman, C. Zhu.<br>
+  \* Equal contribution.<br>
   *Neurocomputing*, 2026. *(Accepted)*
 
 * **CRL-VLA: Continual Vision-Language-Action Learning**  
