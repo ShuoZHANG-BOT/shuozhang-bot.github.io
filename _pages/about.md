@@ -26,9 +26,11 @@ I am currently a Ph.D. student in the Department of Mathematics and Statistics a
 # 📝 Publications 
 
 ### 🗓️ 2026
-* ** REST-SNN: Regularized and Efficient Spatio-Temporal Attention for Robust Spiking Neural Networks** 
-  S. Zhang, [co-authors].
+* **REST-SNN: Regularized and Efficient Spatio-Temporal Attention for Robust Spiking Neural Networks** 
+  Y. Zhang*, S. Zhang*, Y. Wang, R. Fan, U. Nauman, C. Zhu.
   Neurocomputing, 2026. (Accepted)
+* Equal contribution.
+
 
 * **CRL-VLA: Continual Vision-Language-Action Learning**  
   Q. Zeng, **S. Zhang**, H. Zhang, R. Wang, H. Zhao, L. Zhao, R. Li, D. Wang, et al.  
