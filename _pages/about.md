@@ -26,6 +26,10 @@ I am currently a Ph.D. student in the Department of Mathematics and Statistics a
 # 📝 Publications 
 
 ### 🗓️ 2026
+* **IGBT micro-void instance segmentation method based on global-local attention and cascaded fusion network**<br>
+  B. Zhang, Y. Li, S. Liu, C. Wei, B. Liu, **S. Zhang**, M. Zhang, C. Fan.<br>
+  *Applied Soft Computing*, 2026. *(Accepted)*
+
 * **REST-SNN: Regularized and Efficient Spatio-Temporal Attention for Robust Spiking Neural Networks**<br>
   Y. Zhang\*, **S. Zhang\***, Y. Wang, R. Fan, U. Nauman, C. Zhu.<br>
   \* Equal contribution.<br>
