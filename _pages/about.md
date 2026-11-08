@@ -77,7 +77,7 @@ I am currently a Ph.D. student in the Department of Mathematics and Statistics a
 * **Graduate Recruitment Fellowship**, Texas Tech University
 
 # 📖 Educations
-- *2026.08 - Present*, Ph.D. Student, Department of Mathematics and Statistics, Texas Tech University, USA.
+- *2026.08 - Present*, Ph.D. Student in Mathematics, Texas Tech University, USA.
 - *2022.09 - 2026.06*, B.S. in Applied Statistics, Henan University of Technology, China.
 
 # 💬 Invited Talks
