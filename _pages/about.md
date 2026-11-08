@@ -28,12 +28,12 @@ I am currently a Ph.D. student in the Department of Mathematics and Statistics a
 ### 🗓️ 2026
 * **IGBT micro-void instance segmentation method based on global-local attention and cascaded fusion network**<br>
   B. Zhang, Y. Li, S. Liu, C. Wei, B. Liu, **S. Zhang**, M. Zhang, C. Fan.<br>
-  *Applied Soft Computing*, 2026. *(Accepted)*
+  *Applied Soft Computing*, 2026. 
 
 * **REST-SNN: Regularized and Efficient Spatio-Temporal Attention for Robust Spiking Neural Networks**<br>
   Y. Zhang\*, **S. Zhang\***, Y. Wang, R. Fan, U. Nauman, C. Zhu.<br>
   \* Equal contribution.<br>
-  *Neurocomputing*, 2026. *(Accepted)*
+  *Neurocomputing*, 2026. 
 
 * **CRL-VLA: Continual Vision-Language-Action Learning**  
   Q. Zeng, **S. Zhang**, H. Zhang, R. Wang, H. Zhao, L. Zhao, R. Li, D. Wang, et al.  
@@ -42,7 +42,7 @@ I am currently a Ph.D. student in the Department of Mathematics and Statistics a
 
 * **RST-SNN: Robust Spatial Temporal Attention for Spiking Neural Networks**  
   **S. Zhang**, B. Zhang, Z. Fu, K. Pang.  
-  *IEEE International Conference on Image Processing (ICIP)*, 2026. *(Accepted)*  
+  *IEEE International Conference on Image Processing (ICIP)*, 2026.
 
 * **How compound climate shocks reshape urban resilience and scenario-adaptive pathways: New insights from the Yangtze River Economic Belt**  
   Z. Fu, F. Gao, Y. Li, **S. Zhang**, T. Wang.  
