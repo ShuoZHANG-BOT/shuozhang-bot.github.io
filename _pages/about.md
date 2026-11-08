@@ -90,4 +90,4 @@ I am currently a Ph.D. student in the Department of Mathematics and Statistics a
   *Jun 2025 – Mar 2026*
 
 * **Research Intern** | Humanoid Computing Lab, HKUST(GZ)  
-  *Jan 2025 – Jun 2026*
+  *Jan 2025 – Jun 2025*
