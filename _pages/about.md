@@ -26,6 +26,11 @@ I am currently a Ph.D. student in the Department of Mathematics and Statistics a
 # 📝 Publications 
 
 ### 🗓️ 2026
+* **Rethinking How to Leverage Cheap Physics for Data-Efficient Neural Operators**  
+  **S. Zhang**, S. Liang.  
+  *arXiv preprint arXiv:2611.10217*, 2026.  
+  [ [arXiv](https://arxiv.org/abs/2611.10217) ]
+  
 * **IGBT micro-void instance segmentation method based on global-local attention and cascaded fusion network**<br>
   B. Zhang, Y. Li, S. Liu, C. Wei, B. Liu, **S. Zhang**, M. Zhang, C. Fan.<br>
   *Applied Soft Computing*, 2026. 
